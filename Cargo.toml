@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-bevy = { version = "0.14.2", features = ["meshlet","meshlet_processor"] }
+bevy = { version = "0.14.2", features = ["meshlet","meshlet_processor", "bevy_dev_tools"] }
 bevy_prototype_debug_lines = "0.12.0"
 
 
